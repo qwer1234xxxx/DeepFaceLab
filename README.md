@@ -40,8 +40,6 @@ bitcoin:31mPd6DxPCzbpCMZk4k1koWAbErSyqkAXr
 
 - ### Communication groups:
 
-(Chinese) QQ group 951138799 for ML/AI experts
-
 [deepfakes (Chinese)](https://deepfakescn.com)
 
 [deepfakes (Chinese) (outdated) ](https://deepfakes.com.cn/)
