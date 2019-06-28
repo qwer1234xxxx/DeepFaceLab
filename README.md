@@ -12,36 +12,4 @@ GOAL: next DeepFacelab update.
 
 [Donate via Yandex.Money](https://money.yandex.ru/to/41001142318065)
 
-[Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lepersorium@gmail.com&lc=US&no_note=0&item_name=Support+DeepFaceLab&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
-                    
-[Donate via Alipay](https://i.loli.net/2019/01/13/5c3ae3829809f.jpg)
-
-bitcoin:31mPd6DxPCzbpCMZk4k1koWAbErSyqkAXr
-
-- ### [Gallery](doc/gallery/doc_gallery.md)
-
-- ### Manuals:
-
-[English (google translated)](doc/manual_en_google_translated.pdf)
-
-[На русском](doc/manual_ru.pdf)
-
-- ### [Prebuilt windows app](doc/doc_prebuilt_windows_app.md)
-
-- ### Forks
-
-[Google Colab fork](https://github.com/chervonij/DFL-Colab) by @chervonij
-
-[Linux fork](https://github.com/lbfs/DeepFaceLab_Linux) by @lbfs - may be outdated
-
-- ### [Ready to work facesets](doc/doc_ready_to_work_facesets.md)
-
-- ### [Build and repository info](doc/doc_build_and_repository_info.md)
-
-- ### Communication groups:
-
-[deepfakes (Chinese)](https://deepfakescn.com)
-
-[deepfakes (Chinese) (outdated) ](https://deepfakes.com.cn/)
-
-[reddit (English)](https://www.reddit.com/r/GifFakes/new/)
+[Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lepersorium@gmail.com&lc=US&no_note=0&item_name=Support+DeepFaceLab&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)                 
